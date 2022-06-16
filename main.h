@@ -16,7 +16,7 @@ extern char **environ;
 
 /* PATH Shell Functions */
 
-/* Program Flow */
+/* Program Flow. */
 
 int prompt(void);
 char *_read(void);
